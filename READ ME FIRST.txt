@@ -1,5 +1,8 @@
 Thank you for downloading the source code!
 
+Username: admin
+Password: admin
+
 Best Regards,
 Engr. Lyndon R. Bermoy
 serbermz2020@gmail.com
